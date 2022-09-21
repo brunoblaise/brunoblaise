@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Cxr project](https://cxrgo.ml/)**
+- 🔭 I’m currently working on **Morncast**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
