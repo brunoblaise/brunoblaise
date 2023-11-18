@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Mudacumura bruno aka Crypto🔥🔥</h1>
+<h1 align="center">Hi, I'm Mudacumura 🔥🔥</h1>
 <h3 align="center">I am 17 years old.</h3>
 <a href="https://app.daily.dev/brunoblaise94"><img src="https://api.daily.dev/devcards/6fd63c2302724a74b865750c817f9092.png?r=u3e" width="400" alt="Mudacumura brunoblaise's Dev Card"/></a>
 
